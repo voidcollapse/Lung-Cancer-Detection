@@ -2,10 +2,15 @@
 **Lung Cancer Detection** uses machine learning to identify lung cancer from medical data like scans or records. It helps doctors detect the disease early and improve treatment outcomes.
 
 Description of columns:
+
  ● id: Aunique identifier for each patient in the dataset.
+ 
  ● age:Theage of the patient at the time of diagnosis.
+ 
  ● gender: The gender of the patient (e.g., male, female).
+ 
  ● country: The country or region where the patient resides.
+ 
  ● diagnosis_date: The date on which the patient was diagnosed with lung cancer.
  ● cancer_stage: The stage of lung cancer at the time of diagnosis (e.g., Stage I, Stage II,
  Stage III, Stage IV).
